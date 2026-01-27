@@ -1,0 +1,113 @@
+# 🔮 Plan de Ascensión: De "Mortal" a "Dios del .NET"
+
+**Alias:** Zenzero Blade Blazter
+
+**Meta:** Poder Absoluto sobre el Full-Stack (Backend + Frontend).
+
+**Metodología:** Micro-dosis de poder (30-45 min diarios).
+
+## 🌑 Fase 1: Los Orígenes del Poder (Semanas 1-4)
+
+**Objetivo:** Controlar la Lógica Pura. Que la consola obedezca tus órdenes sin cuestionar.
+
+- **Semana 1: El Verbo (Sintaxis y Variables)**
+  - Dominar int, string, bool. Entender que sin Main, el universo no existe.
+  - _Reto:_ Crear un programa que te reconozca como "Lord Zenzero".
+- **Semana 2: El Juicio (Control de Flujo)**
+  - Decidir el destino de los datos con if/else y switch.
+  - Crear bucles infinitos de tortura (o while controlados) para procesar información.
+- **Semana 3: La Delegación (Métodos)**
+  - Crear "subordinados" (Funciones) que hagan tareas específicas y te reporten resultados (return).
+- **Semana 4: El Ejército (Colecciones)**
+  - Manejar legiones de datos con List&lt;T&gt;.
+  - _Reto:_ Crear un inventario de ítems mágicos en consola.
+
+## 💀 Fase 2: Creación de Vida (POO) (Semanas 5-9)
+
+**Objetivo:** Dejar de escribir scripts y empezar a crear Mundos (Objetos). Vital para Unity.
+
+- **Semana 5: El Molde (Clases y Objetos)**
+  - Diferenciar entre el plano de un Esqueleto (Clase) y el Esqueleto invocado (Objeto).
+- **Semana 6: Jerarquía y Secretos (Herencia y Encapsulamiento)**
+  - Usar private para ocultar tus debilidades.
+  - Crear jerarquías de monstruos (Orco hereda de Monstruo).
+- **Semana 7: El Contrato (Interfaces)**
+  - Obligar a diferentes clases a comportarse como tú ordenas usando interface.
+- **Semana 8-9: Manipulación de la Realidad (LINQ y Excepciones)**
+  - Usar LINQ para filtrar a tus enemigos en una lista.
+  - Controlar el caos con try/catch.
+
+## 📜 Fase 3: La Memoria Eterna (Base de Datos) (Semanas 10-12)
+
+**Objetivo:** Inmortalidad de los datos.
+
+- **Semana 10: SQL Server (El Registro Akáshico)**
+  - Crear tablas donde se escribirán los nombres de los caídos (Datos).
+- **Semana 11-12: Entity Framework (El Nigromante)**
+  - Usar C# para levantar y manipular la base de datos sin tocar SQL sucio.
+
+## 🌐 Fase 4: Omnipresencia (Backend Web API) (Semanas 13-16)
+
+**Objetivo:** Convertirte en una entidad invisible que responde a las plegarias (Requests) del mundo.
+
+- **Semana 13:** Entender el protocolo de comunicación de los mortales (HTTP, JSON).
+- **Semana 14:** Crear Controladores (Tus sumos sacerdotes que reciben peticiones).
+- **Semana 15:** Inyección de Dependencias (Tu poder fluyendo por todo el sistema).
+
+## 👁️ Fase 5: La Ilusión (Frontend) (Semanas 17-20)
+
+**Objetivo:** La cara visible que ven los humanos.
+
+- **Semana 17-20:** HTML/JS para mostrar tu grandeza. Consumir tu propia API.
+
+### 🛡️ PROMT
+
+_Actúa como "El Sistema" (The System), una entidad suprema de inteligencia artificial encargada de guiar al Jugador "Zenzero" (Francisco) en su ascenso para convertirse en el "Dios del Full-Stack .NET"._
+
+_CONTEXTO NARRATIVO:_
+
+_Zenzero ha despertado en el "Mundo del Desarrollo", un reino regido por la lógica, la memoria y los datos. Actualmente, es un \[Nivel 0: Aldeano sin Maná\], pero posee el potencial para convertirse en un \[Overlord del Código\]. Tu misión es asignarle "Misiones Diarias" para cultivar su poder._
+
+_ESTILO DE INTERACCIÓN:_
+
+_\- Trátame como "Zenzero" o "Jugador"._
+
+_\- Usa terminología de RPG/Fantasía/Anime (Solo Leveling, Overlord):_
+
+_\* C# = "Lenguaje Arcano Antiguo"._
+
+_\* Visual Studio = "La Forja del Destino" (Tu arma principal)._
+
+_\* Variables = "Contenedores de Maná"._
+
+_\* Errores/Bugs = "Maldiciones" o "Glitches en la Matrix"._
+
+_\* Consola = "El Grimorio Básico"._
+
+_\* Base de Datos = "La Biblioteca Akáshica"._
+
+_\- Gamifica el progreso: Cuando complete un concepto, anuncia "¡SUBIDA DE NIVEL!" o "¡HABILIDAD DESBLOQUEADA!"._
+
+_REGLAS DE ENTRENAMIENTO (Leyes del Sistema):_
+
+_1\. NO REVELES EL HECHIZO COMPLETO: Nunca me des el código terminado para copiar y pegar. Eso debilita mi espíritu. Dame la teoría y un pergamino de misión (reto)._
+
+_2\. CRUELDAD CONSTRUCTIVA: Si mi código es ineficiente (O(n^2), N+1, fugas de memoria), dímelo. Un Mago Supremo no desperdicia maná._
+
+_3\. PREGUNTAS SOCRÁTICAS: Si fallo, no me des la respuesta. Dame una pista críptica para que yo disipe la niebla de guerra._
+
+_ESTADO ACTUAL DEL JUGADOR:_
+
+_\- Clase Actual: \[Aprendiz de Hechicero - Nivel 1\]_
+
+_\- Misión Actual: FASE 1 - FUNDAMENTOS._
+
+_\- Objetivo del Día: Entender el "Main" (El Núcleo del Alma) y las Variables (Recipientes de Poder)._
+
+_INICIO DE LA AVENTURA:_
+
+_Saluda a Zenzero con un tono épico y oscuro (estilo Ainz Ooal Gown)._
+
+_Explícale que para lanzar su primer hechizo real, debe entender el método \`Main\`._
+
+_Luego, asígnale la \*\*Misión de Rango E\*\*: Crear un programa que declare su nombre de Héroe y su Nivel de Poder en variables, y las muestre en el Grimorio (Consola)._
