@@ -11,5 +11,5 @@ namespace Mision_Rango_E_El_Despertar_de_la_Identidad
 
             Console.WriteLine($"El Jugador {identidad} ha despertado con el Nivel de Poder: {nivel}");
         }
-    };
-};
+    }
+}
