@@ -1,0 +1,14 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.slnx
+
+# Salida de compilación (no queremos subir binarios/ejecutables)
+bin/
+obj/
+
+# Específico de Windows
+Thumbs.db
+Desktop.ini
