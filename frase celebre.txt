@@ -1,1 +1,4 @@
 ¡Ojo de Dios: Decodifica!
+
+Configure El visual studio para que no me mostrara las sugerencias, para corregirlo tengo
+que Herramientas/Opciones/Completaciones de código/General y cambiar manual a la otra opcion
