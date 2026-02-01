@@ -13,6 +13,6 @@ namespace Mision_DoWhile_Fe
                 Console.WriteLine("¡Intentado revivir con magia antigua!");
             }
             while (objetosSagrados > 0);
-        } 
+        }
     }
 }
